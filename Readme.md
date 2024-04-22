@@ -1,6 +1,6 @@
-# emailMatchingRegex
+# EmailMatchingRegex
 
-The provided regular expression /^([a-z0-9_.-]+)@([\da-z.-]+)\.([a-z.]{2,6})$/ is a powerful tool for validating email addresses according to common standards. Designed to be used in various programming languages and applications, this regex meticulously captures the structure of an email address into its constituent parts: the username, the "@" symbol, the domain name, the dot separator, and the Top-Level Domain (TLD). By employing a combination of character classes, quantifiers, and anchors, this regex ensures that the email address adheres to the expected format, making it an invaluable asset for form validation, data parsing, and other tasks where email address validation is crucial.
+The provided regular expression /^([a-z0-9_.-]+)@([\da-z.-]+)\.([a-z.]{2,6})$/ is a tool for validating a email address according to common standards. Designed to be used in various programming languages and applications, this regex meticulously captures the structure of an email address into its constituent parts: the username, the "@" symbol, the domain name, the dot separator, and the Top-Level Domain (TLD). By employing a combination of character classes, quantifiers, and anchors, this regex ensures that the email address adheres to the expected format, making it an invaluable asset for form validation, data parsing, and other tasks where email address validation is crucial.
 
 ## Summary
 
